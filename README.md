@@ -1,5 +1,5 @@
 # sudoku-solver
-Hi, my name is Rémi LUX. I end my final year of Computer Vision Degree in Grenoble INP - Phelma, and I'm now engineer at Niryo.
+
 Welcome to my project  
 My algorithm is able to detect and to directly solve sudokus in VR
 
